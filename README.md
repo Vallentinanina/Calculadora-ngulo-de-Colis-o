@@ -1,5 +1,5 @@
 # Calculadora-angulo-de-Colisao
-# 🧮 Calculadora Java para exercício de Física
+# 🧮 Calculadora Python para exercício de Física
 
 Uma calculadora simples feita em Python com interface gráfica.
 
