@@ -1,4 +1,4 @@
-# Calculadora-angulo-de-Colisao
+# Calculadora-Ângulo-de-Colisão
 # 🧮 Calculadora Python para exercício de Física
 
 Uma calculadora simples feita em Python com interface gráfica.
